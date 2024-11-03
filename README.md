@@ -1,5 +1,4 @@
 # Lerning_demo
-this is a demo only
+this is a demo-only
+This is Krishna i am from Guntur
 
-
-This is Krishna
